@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _printf - Function entry
+ * printf - Function entry
  * Description: A function that produces output according to a format
  * @format: is a character string
  * @...: list of arguments
